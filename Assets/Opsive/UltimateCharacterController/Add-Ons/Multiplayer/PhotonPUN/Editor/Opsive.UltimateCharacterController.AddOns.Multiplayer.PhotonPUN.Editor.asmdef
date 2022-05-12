@@ -1,0 +1,24 @@
+{
+    "name": "Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPUN.Editor",
+    "references": [
+        "Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPUN",
+        "Opsive.UltimateCharacterController",
+        "Opsive.UltimateCharacterController.Editor",
+        "PhotonRealtime",
+        "PhotonUnityNetworking",
+        "Opsive.UltimateCharacterController.AddOns.Multiplayer",
+        "Opsive.Shared.Editor",
+        "Opsive.Shared"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

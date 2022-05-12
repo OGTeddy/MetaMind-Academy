@@ -1,0 +1,21 @@
+{
+    "name": "Opsive.UltimateCharacterController.AddOns.Multiplayer.PhotonPUN.Demo",
+    "references": [
+        "GUID:d8e89a79cd8df884b8d5b3356783eb74",
+        "GUID:cb7ef9d091ef9704cac35413bf140440",
+        "GUID:4b36538b6715e0b4e9de545692f7d63d",
+        "GUID:2f8496e454d2ffc43bb37ceda750b181",
+        "GUID:831409e8f9d13b5479a3baef9822ad34",
+        "GUID:e67ef94928fafb54480ad50f51b859bf",
+        "GUID:57c32fc907df0f54e8e6e8f0d2488336"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
