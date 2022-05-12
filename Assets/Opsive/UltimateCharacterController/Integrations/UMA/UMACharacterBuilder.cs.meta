@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 986c4a65e53b18d4089750dd5bbda59f
+timeCreated: 1550094484
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_InvisibleShadowCastorMaterial: {fileID: 2100000, guid: 0a580a5ea04fdab47941095489aa23b7,
+      type: 2}
+  - m_AnimatorController: {instanceID: 0}
+  - m_ItemCollection: {fileID: 11400000, guid: 5481010ef14c32f4cb7b6661b0c59fb4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

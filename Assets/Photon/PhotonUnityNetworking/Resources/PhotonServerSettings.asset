@@ -33,7 +33,51 @@ MonoBehaviour:
   EnableSupportLogger: 0
   RunInBackground: 1
   StartInOfflineMode: 0
-  RpcList: []
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - DestructRPC
+  - DieRPC
+  - EnableThrowableObjectMeshRenderersRPC
+  - EquipUnequipItemRPC
+  - Fire
+  - FireRPC
+  - HealRPC
+  - InitializeMovingPlatformRPC
+  - InteractedRPC
+  - InteractRPC
+  - ItemIdentifierPickupRPC
+  - ItemReloadCompleteRPC
+  - LoadDefaultLoadoutRPC
+  - MagicCastRPC
+  - MagicImpactRPC
+  - MeleeHitColliderRPC
+  - OnAbilityActiveRPC
+  - OnDamageRPC
+  - OnItemAbilityActiveRPC
+  - PickupItemIdentifierRPC
+  - PickupUsableItemActionRPC
+  - PushRigidbodyRPC
+  - ReloadItemRPC
+  - RemoveAllItemsRPC
+  - ResetRotationPositionRPC
+  - RespawnRPC
+  - RespawnSpaceship
+  - SetActiveRPC
+  - SetPositionAndRotationRPC
+  - SetPositionRPC
+  - SetRotationRPC
+  - StartAbilityRPC
+  - StartItemAbilityRPC
+  - StartItemReloadRPC
+  - StartStopBeginEndMagicActionsRPC
+  - StopMagicCastRPC
+  - SynchronizeItemParametersRPC
+  - SynchronizeParametersRPC
+  - ThrowItemRPC
+  - ToggleFlashlightRPC
+  - UpdateAttributeRPC
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 0
